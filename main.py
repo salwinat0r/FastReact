@@ -14,4 +14,4 @@ app.add_middleware(
 
 @app.get("/")
 def root():
-    return {"msg": "Hello, 👋"}
+    return {"msg": "Ground control to Major Tom 🚀"}
