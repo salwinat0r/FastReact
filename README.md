@@ -32,7 +32,7 @@ FastAPI GET http route:
 ```python
 @app.get("/")
 def root():
-    return {"msg": "Hello, 👋"}
+    return {"msg": "Ground control to Major Tom 🚀"}
 ```
 
 React Frontend:
