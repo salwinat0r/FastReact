@@ -41,4 +41,4 @@ React Frontend:
 Further, you can edit the `main.py` and the `/frontend/component/Message.js` according to your use case and use the template to its fullest.
 
 ## TODO
-[ ] Add Database support
+- [ ] Add Database support
