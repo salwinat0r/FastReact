@@ -19,10 +19,17 @@ pip install -r requirements.txt
 ```
 
 ## Usage
-Run the following command:
+
+For Windows :
 
 ```bash
 .\commands.bat
+```
+
+For Mac and Linux systems: 
+
+```bash
+.\commands.sh
 ```
 
 This should open a React app instance on `localhost:3000` that displays the message from the FastAPI backend.
